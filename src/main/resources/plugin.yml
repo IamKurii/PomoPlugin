@@ -1,0 +1,8 @@
+name: SSLessonPomo
+version: '${project.version}'
+main: it.justpomo.SSLessonPomo
+load: STARTUP
+commands:
+
+  SSLesson:
+    description: Starta tutto!
